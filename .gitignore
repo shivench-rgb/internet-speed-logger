@@ -1,0 +1,9 @@
+@"
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+speed_data.csv
+"@ | Out-File -Encoding utf8 .gitignore
