@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Internet Speed Logger
 
 A Python-based tool that checks internet speed and logs download speed, upload speed, and ping for tracking internet performance over time.
@@ -93,3 +94,7 @@ Shiven Chaware
 ## License
 
 This project is for educational and personal use.
+=======
+# internet-speed-logger
+A Python and Streamlit application to test internet speed, track download and upload speeds, and maintain speed test history.
+>>>>>>> a226513bb83f52294431800418fa8f86d71571ff
